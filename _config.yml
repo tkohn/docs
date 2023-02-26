@@ -119,19 +119,6 @@ pwa:
 
 paginate: 10
 
-
-copyright:
-  # Shown at the bottom of the post
-  license:
-    template: This post is licensed under :LICENSE_NAME by the author.
-    name: GNU General Public License v3.0
-    link: https://www.gnu.org/licenses/gpl-3.0.html
-
-  # Displayed in the footer
-  brief: Some rights reserved.
-  verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the GNU General Public License v3.0 License by the author.
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
